@@ -1,7 +1,7 @@
 ![](header.png)
 - 🔭 I’m currently working on DELI app and another projects.
 - 🌱 I’m currently learning Objective C, iOS SDK.
-- 📫 How to reach me: ars352@yahoo.com
+- 📫 How to reach me: zollashop1@yandex.ru
 - 😍 SwiftUI 
 
 ###### My packages:
