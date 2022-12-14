@@ -6,7 +6,8 @@
 
 #### My packages: 
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
-##[CardValidationTF](https://github.com/auranebes/CardValidationTF)
+
+-[CardValidationTF](https://github.com/auranebes/CardValidationTF)
 
 <!--
 **auranebes/auranebes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
