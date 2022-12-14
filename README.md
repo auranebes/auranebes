@@ -1,8 +1,9 @@
 ### Hi there 👋
+header.png
 
 <!--
 **auranebes/auranebes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-header.png
+
 
 Here are some ideas to get you started:
 
