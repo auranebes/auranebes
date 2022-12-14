@@ -6,7 +6,7 @@
 
 ###### My packages:
 
-CardValidationTF - (https://github.com/auranebes/CardValidationTF)
+[CardValidationTF](https://github.com/auranebes/CardValidationTF)
 
 <!--
 **auranebes/auranebes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
