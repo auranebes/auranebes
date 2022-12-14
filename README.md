@@ -1,5 +1,7 @@
-### Hi there 👋
 ![](header.png)
+- 🔭 I’m currently working on DELI app and another projects.
+- 🌱 I’m currently learning Objective C, iOS SDK.
+- 📫 How to reach me: ars352@yahoo.com
 
 <!--
 **auranebes/auranebes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
