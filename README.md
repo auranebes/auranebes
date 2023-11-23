@@ -1,5 +1,4 @@
 ![](header.png)
-- 🔭 I’m currently working on DELI app and another projects.
 - 📫 How to reach me: zollashop1@yandex.ru
 - 😍 SwiftUI 
 
